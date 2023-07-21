@@ -25,7 +25,7 @@
 - When the hyper-parameters of the random forest model were tuned using grid search cv function, the F1 score increased about only 1%.
 - Then, with appropriate decision threshold value, which provides desirable precision and recall scores, the predictions were made on the test set.
 - The precision, recall and F1 score of the model on the test set are 0.723, 0.952, and 0.822 respectively.
-- The full discussion on the results of the analysis can be found [here]()
+- The full discussion on the results of the analysis can be found [here](https://achyutk23.medium.com/starbucks-promotional-offers-project-339db34a95d0)
 
 ## 5. Licensing, Author, and Acknowledgement
 - The views expressed int project are my own and the credit for the dataset goes to Starbucks and credit to udacity for making the dataset available.
